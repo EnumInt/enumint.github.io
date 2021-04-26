@@ -1,0 +1,23 @@
+body {
+    background-image: url("https://picsum.photos/seed/picsum/1920/1080");
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    background-color: -moz-mac-accentlightshadow;
+    filter: blur(2px);
+    border-radius: 25px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.5);
+
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
