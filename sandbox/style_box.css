@@ -1,0 +1,36 @@
+body {
+    background-image: url("https://picsum.photos/seed/picsum/1920/1080");
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    background-color: -moz-mac-accentface;
+    border-radius: 25px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.5);
+    min-height: 100px;
+
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+
+}
+
+p {
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+
+}
+
+h3 {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}

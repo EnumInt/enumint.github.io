@@ -1,0 +1,130 @@
+Index: index.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><!doctype html>\r\n\r\n<html lang=\"en\">\r\n<head>\r\n\r\n    <link rel=\"preconnect\" href=\"https://fonts.gstatic.com\">\r\n    <link href=\"https://fonts.googleapis.com/css2?family=Nunito&family=Roboto&display=swap\" rel=\"stylesheet\">\r\n\r\n    <meta charset=\"utf-8\">\r\n\r\n    <title>Isaiah</title>\r\n    <meta name=\"description\" content=\"Isaiah's Site\">\r\n    <meta name=\"author\" content=\"Isaiah Angnakak\">\r\n\r\n    <link rel=\"stylesheet\" href=\"css/styles.css\">\r\n\r\n</head>\r\n\r\n<body>\r\n\r\n<div class=\"center\">\r\n    <h1>Isaiah</h1>\r\n\r\n</div>\r\n\r\n</body>\r\n</html>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/index.html b/index.html
+--- a/index.html	(revision c23c53bf8973d42c00671ca14295f201f84ef09c)
++++ b/index.html	(date 1619470553690)
+@@ -19,8 +19,9 @@
+ <body>
+ 
+ <div class="center">
++
+     <h1>Isaiah</h1>
+-
++    <h2><i>Programmer And Designer</i></h2>
+ </div>
+ 
+ </body>
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"d783dcb7-84e7-4efa-a070-5b59c68952df\" name=\"Default Changelist\" comment=\"edit\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/index.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/index.html\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"ComposerSettings\">\r\n    <execution />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"1riivRAXQ2eqQyOqsmlSNmDJwKL\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$\" />\r\n    <property name=\"settings.editor.selected.configurable\" value=\"project.propDebugger\" />\r\n    <property name=\"vue.rearranger.settings.migration\" value=\"true\" />\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"d783dcb7-84e7-4efa-a070-5b59c68952df\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1619465541042</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1619465541042</updated>\r\n      <workItem from=\"1619465542983\" duration=\"2004000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"edit\">\r\n      <created>1619465852619</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1619465852619</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"edit\">\r\n      <created>1619465888637</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1619465888637</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"edit\">\r\n      <created>1619466391725</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1619466391725</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"4\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State>\r\n              <option name=\"FILTERS\">\r\n                <map>\r\n                  <entry key=\"branch\">\r\n                    <value>\r\n                      <list>\r\n                        <option value=\"origin/main\" />\r\n                      </list>\r\n                    </value>\r\n                  </entry>\r\n                </map>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"edit\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"edit\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision c23c53bf8973d42c00671ca14295f201f84ef09c)
++++ b/.idea/workspace.xml	(date 1619470592682)
+@@ -2,6 +2,7 @@
+ <project version="4">
+   <component name="ChangeListManager">
+     <list default="true" id="d783dcb7-84e7-4efa-a070-5b59c68952df" name="Default Changelist" comment="edit">
++      <change afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+     </list>
+@@ -17,11 +18,15 @@
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+   <component name="ProjectId" id="1riivRAXQ2eqQyOqsmlSNmDJwKL" />
++  <component name="ProjectLevelVcsManager">
++    <ConfirmationsSetting value="2" id="Add" />
++  </component>
+   <component name="ProjectViewState">
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+   <component name="PropertiesComponent">
++    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+     <property name="WebServerToolWindowFactoryState" value="false" />
+@@ -37,7 +42,7 @@
+       <option name="number" value="Default" />
+       <option name="presentableId" value="Default" />
+       <updated>1619465541042</updated>
+-      <workItem from="1619465542983" duration="2004000" />
++      <workItem from="1619465542983" duration="4653000" />
+     </task>
+     <task id="LOCAL-00001" summary="edit">
+       <created>1619465852619</created>
+@@ -60,7 +65,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1619466391725</updated>
+     </task>
+-    <option name="localTasksCounter" value="4" />
++    <task id="LOCAL-00004" summary="edit">
++      <created>1619467585491</created>
++      <option name="number" value="00004" />
++      <option name="presentableId" value="LOCAL-00004" />
++      <option name="project" value="LOCAL" />
++      <updated>1619467585491</updated>
++    </task>
++    <option name="localTasksCounter" value="5" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -90,6 +102,7 @@
+     </option>
+   </component>
+   <component name="VcsManagerConfiguration">
++    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+     <MESSAGE value="edit" />
+     <option name="LAST_COMMIT_MESSAGE" value="edit" />
+   </component>
+Index: css/styles.css
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/css/styles.css b/css/styles.css
+new file mode 100644
+--- /dev/null	(date 1619470592629)
++++ b/css/styles.css	(date 1619470592629)
+@@ -0,0 +1,32 @@
++body {
++    background-image: url("https://picsum.photos/seed/picsum/1920/1080");
++}
++
++.center {
++    margin: auto;
++    width: 50%;
++    padding: 10px;
++    background-color: -moz-mac-accentface;
++    border-radius: 25px;
++    box-shadow: 0 0 5px rgba(0,0,0,0.5);
++    min-height: 100px;
++
++}
++
++h1 {
++    font-family: 'Roboto', sans-serif;
++    text-align: center;
++
++}
++
++p {
++    text-align: center;
++    font-family: 'Nunito', sans-serif;
++
++}
++
++h3 {
++    font-family: 'Roboto', sans-serif;
++    text-align: center;
++}
++
