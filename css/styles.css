@@ -43,7 +43,7 @@ h2 {
 
 .portfolio {
     margin: 100px;
-    width: 50%;
+    width: 60%;
     padding: 20px;
     background-color: #242424;
     border-radius: 10px;
@@ -65,14 +65,14 @@ img {
 }
 
 .portfolio_text {
-    margin: 320px 800px;
+    margin: 320px 1000px;
     width: 100px;
-    padding: 10px;
+    padding: 50px;
     background-color: #434343;
     border-radius: 10px;
     box-shadow: 0 0 5px rgba(0,0,0,0.5);
     position:absolute;
-    top:0;
+    
  
     min-height: 100px;
 
