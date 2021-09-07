@@ -1,0 +1,39 @@
+@import "bootstrap-5.1.0/scss/bootstrap";
+.topbar 
+{
+background: rgb(120,0,167);
+background: -moz-linear-gradient(90deg, rgba(120,0,167,1) 0%, rgba(194,0,183,1) 100%);
+background: -webkit-linear-gradient(90deg, rgba(120,0,167,1) 0%, rgba(194,0,183,1) 100%);
+background: linear-gradient(90deg, rgba(120,0,167,1) 0%, rgba(194,0,183,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#7800a7",endColorstr="#c200b7",GradientType=1); 
+position: relative;
+position: 100px;
+size: 40px;
+text-align: center;
+color: white;
+padding: 5px;
+padding-top: 5px;
+font-family: 'Noto Sans KR', sans-serif;
+}
+.below
+{
+    background-color: theme-color("dark");
+}
+p
+{
+    display:inline;
+}
+.cover
+{
+    background-color: white;
+    opacity: 0;
+    animation: cover 5s forwards;
+}
+@keyframes cover {
+    0% {opacity: 0;}
+    10% {opacity: 1;}
+    100% {opacity: 1;}
+  }
+.container {
+    padding: 15px;
+}
